@@ -1,0 +1,1 @@
+Checker tema 0: detalii

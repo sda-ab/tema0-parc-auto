@@ -1,8 +1,13 @@
-# Checker Tema 0 - 2022
-Checker-ul este o aplicație de testare automată a temelor. Este un produs open-source realizat de către și pentru studenții din Facultatea de Automatică și Calculatoare - UPB, și este menit atât să usureze munca asistenților de a corecta teme cât și sa ofere studenților o evaluare cât mai obiectivă.
+<h1 align="center">
+  Checker Tema 0 - 2022 
+</h1>
 
-## Rularea checker-ului
-Pentru a verifica functionarea checker-ului va trebui sa descarcati tot depozitul de mai sus, dupa aceasta deschideti un terminal in folderul in care se afla depozitul descarcat si scrieti urmatoarea comanda:
-```shell
-./checker.sh
-````
+PA Checker is a script designed to automate the homework testing. It's an open-source project build by teaching assistants for students of Faculty of Automatic Control & Systems Engineering - PUB. Its purpose is to make the grading systems more transparent and easier for both students & teaching assistants.
+
+
+## Running the Checker
+To verify that the checker is working on your computer follow the next steps:
+  - download this repo
+  - open a terminal in the root folder of the downloaded repo
+  - type the following command: ```./checker.sh```
+    - if you get a permission error type the following command: ```chmod +x checker.sh```
